@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at [Metabase Q](https://www.metabaseq.com/)
 
-- 🌱 I’m currently learning **FastAPI, Python, Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate in **any web development project, micro-services, etc.**
 
-- 💬 Ask me about **React JS, Express JS**
+- 💬 Ask me about **React JS, Express JS, Next JS**
 
 - 📫 How to reach me **moralesaksel@gmail.com**
 
